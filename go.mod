@@ -76,3 +76,5 @@ require (
 	gopkg.in/ini.v1 v1.66.4 // indirect
 	gopkg.in/square/go-jose.v2 v2.6.0
 )
+
+replace github.com/ory/x v0.0.368 => github.com/gedevops/x v0.0.369-0.20220804080823-1fc9bb11bb20
