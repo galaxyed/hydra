@@ -77,4 +77,4 @@ require (
 	gopkg.in/square/go-jose.v2 v2.6.0
 )
 
-replace github.com/ory/x v0.0.368 => github.com/gedevops/x v0.0.369-0.20220804080823-1fc9bb11bb20
+replace github.com/ory/x v0.0.368 => github.com/galaxyed/x v0.0.455-0.20220804102605-02e8fa646692
